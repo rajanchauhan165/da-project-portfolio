@@ -10,3 +10,6 @@
 - Calculated the total lifetime rentals and sum of all payments collected from each customer, identifying the most valuable customers.
 - Compiled a list of board advisors and investors, noting their roles and affiliations.
 - Assessed the coverage of most-awarded actors in the film inventory.
+
+#### Schema Diagram:
+![Schema](https://i.ibb.co/f19fjgt/Screenshot-2024-05-12-224353.png)
