@@ -1,4 +1,4 @@
-# My SQL, Excel, and Power BI Projects
+# SQL, Excel, and Power BI Projects
 
 Welcome to my repository! This is a collection of my projects involving SQL, Excel, and Power BI. I'm excited to share my work and learnings with you.
 
