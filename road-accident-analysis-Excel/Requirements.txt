@@ -1,0 +1,7 @@
+Primary KPI - Total causalties taken place after accident
+Primary KPI - Total causalties % percentage of total with respect to accdent severity and maximum casualties by type of vehicle.
+Secondary KPI - Total casualties wrt vehicle type
+# Monthly trend showing comparision of casualties for current and previous year
+# Maximum casualties by road type
+# Distribution of total casualties by road surface
+# Relation between casualties by area/location and day/night
